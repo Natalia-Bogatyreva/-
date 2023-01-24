@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<students>
+	<student>
+		<fio>
+			<name>Карпова</name>
+			<surname>Анна</surname>
+			<patronymic>Александровна</patronymic>
+		</fio>
+		<birthday>2008</birthday>
+		<class>8А</class>
+		<adress>
+			<city>г. Москва</city>
+			<street>Ленинский проспект</street>
+			<house>2</house>
+			<flat>277</flat>
+		</adress>
+	</student>
+	<student>
+		<fio>
+			<name>Малышкин</name>
+			<surname>Михаил</surname>
+			<patronymic>Иванович</patronymic>
+		</fio>
+		<birthday>2014</birthday>
+		<class>2Б</class>
+		<adress>
+			<city>г. Москва</city>
+			<street>Ленградское шоссе</street>
+			<house>10</house>
+			<flat>56</flat>
+		</adress>
+	</student>
+	<student>
+		<fio>
+			<name>Андреева</name>
+			<surname>Алла</surname>
+			<patronymic>Петровна</patronymic>
+		</fio>
+		<birthday>2015</birthday>
+		<class>1Г</class>
+		<adress>
+			<city>г. Москва</city>
+			<street>Дмитровское шоссе</street>
+			<house>2</house>
+			<flat>277</flat>
+		</adress>
+	</student>
+</students>
